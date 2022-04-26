@@ -32,7 +32,7 @@ education:
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
-    - course: BSc in Computer Science
+    - course: BS in Computer Science
       institution: University of Science and Technology of China
       year: 2016-2020
 
