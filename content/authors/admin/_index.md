@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD Student in Artificial Intelligence
       institution: Tsinghua University
-      year: 2020-2015
+      year: 2020-2025
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
