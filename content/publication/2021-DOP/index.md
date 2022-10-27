@@ -15,6 +15,7 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2021-01-01T00:00:00Z'
 doi: ''
@@ -78,13 +79,3 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
