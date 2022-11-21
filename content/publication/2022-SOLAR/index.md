@@ -34,7 +34,7 @@ publication_short: In *NeurIPS*
 abstract: Modular Reinforcement Learning (RL) decentralizes the control of multi-joint robots by learning policies for each actuator. Previous work on modular RL has proven its ability to control morphologically different agents with a shared actuator policy. However, with the increase in the Degree of Freedom (DoF) of robots, training a morphology-generalizable modular controller becomes exponentially difficult. Motivated by the way the human central nervous system controls numerous muscles, we propose a Synergy-Oriented LeARning (SOLAR) framework that exploits the redundant nature of DoF in robot control. Actuators are grouped into synergies by an unsupervised learning method, and a synergy action is learned to control multiple actuators in synchrony. In this way, we achieve a low-rank control at the synergy level. We extensively evaluate our method on a variety of robot morphologies, and the results show its superior efficiency and generalizability, especially on robots with a large DoF like Humanoids++ and UNIMALs.
 
 # Summary. An optional shortened abstract.
-summary: Synergy-oriented modular-rl.
+summary: Synergy-Oriented LeARning Framework (SOLAR).
 
 tags: []
 
@@ -49,9 +49,9 @@ featured: true
 url_pdf: 'https://openreview.net/pdf?id=zYc5FSxL6ar'
 url_code: 'https://github.com/drdh/Synergy-RL'
 url_dataset: ''
-url_poster: ''
+url_poster: 'poster.pdf'
 url_project: 'https://sites.google.com/view/synergy-rl/'
-url_slides: ''
+url_slides: 'slides.pdf'
 url_source: ''
 url_video: ''
 
