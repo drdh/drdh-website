@@ -39,7 +39,7 @@ summary: Synergy-Oriented LeARning Framework (SOLAR).
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
