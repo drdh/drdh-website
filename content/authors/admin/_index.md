@@ -30,10 +30,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Student in Artificial Intelligence
+    - course: Ph.D. Student in Artificial Intelligence
       institution: Tsinghua University
       year: 2020-2025
-    - course: BS in Computer Science
+    - course: B.S. in Computer Science
       institution: University of Science and Technology of China
       year: 2016-2020
 
@@ -45,18 +45,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:drdhxi@gmail.com'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/drdhxi
-#    label: Follow me on Twitter
-#    display:
-#      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=K26AU1EAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/drdh
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/drdhxi
+#    label: Follow me on Twitter
+#    display:
+#      header: true
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/
@@ -64,9 +64,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -75,6 +75,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD Student advised by [Prof. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/) at Institute for Interdisciplinary Information Sciences (IIIS, Tsinghua University), headed by [Prof. Andrew Yao](https://iiis.tsinghua.edu.cn/yao/). My research interests include reinforcement learning, multi-agent and robot design.
+I am a Ph.D. Student advised by [Prof. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/) at Institute for Interdisciplinary Information Sciences (IIIS, Tsinghua University), headed by [Prof. Andrew Yao](https://iiis.tsinghua.edu.cn/yao/). My research interests include reinforcement learning, multi-agent and robot design.
 
 [//]: # (&#40;{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.&#41;)
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
