@@ -49,9 +49,9 @@ featured: true
 url_pdf: 'https://openreview.net/pdf?id=jeHP6aBCBu'
 url_code: 'https://github.com/drdh/SARD'
 url_dataset: ''
-# url_poster: 'poster.pdf'
+url_poster: 'poster.pdf'
 url_project: 'https://sites.google.com/view/robot-design/'
-# url_slides: 'slides.pdf'
+url_slides: 'slides.pdf'
 url_source: ''
 url_video: ''
 
