@@ -1,4 +1,10 @@
-public/
+# IDEs
+.idea/
+
+# Hugo
 resources/
-# static/
+public/
+jsconfig.json
+node_modules/
+go.sum
 .hugo_build.lock
