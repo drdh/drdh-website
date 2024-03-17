@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Arxiv*
-publication_short: In *Arx*
+publication_short: In *Arxiv*
 
 abstract: How cooperation emerges is a long-standing and interdisciplinary problem. Game-theoretical studies on social dilemmas reveal that altruistic incentives are critical to the emergence of cooperation but their analyses are limited to stateless games. For more realistic scenarios, multi-agent reinforcement learning has been used to study sequential social dilemmas (SSDs). Recent works show that learning to incentivize other agents can promote cooperation in SSDs. However, we find that, with these incentivizing mechanisms, the team cooperation level does not converge and regularly oscillates between cooperation and defection during learning. We show that a second-order social dilemma resulting from the incentive mechanisms is the main reason for such fragile cooperation. We formally analyze the dynamics of second-order social dilemmas and find that a typical tendency of humans, called homophily, provides a promising solution. We propose a novel learning framework to encourage homophilic incentives and show that it achieves stable cooperation in both SSDs of public goods and tragedy of the commons.
 
