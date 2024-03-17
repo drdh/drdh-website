@@ -39,7 +39,7 @@ summary: We exploit the structure of the design space in robot design problems w
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
