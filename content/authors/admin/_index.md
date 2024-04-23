@@ -29,11 +29,13 @@ bio: My research interests include reinforcement learning, robot design, embodie
 
 # Interests to show in About widget
 interests:
+  - Robot Design
+  - Large Language Models
+  - Embodied AI
   - Reinforcement Learning
   - Multi-Agent
   - Modular RL
-  - Robot Design
-  - Embodied AI
+
 
 # Education to show in About widget
 education:
