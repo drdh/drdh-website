@@ -48,9 +48,9 @@ featured: true
 url_pdf: 'https://openreview.net/pdf?id=q9jQPA6zPK'
 url_code: 'https://github.com/drdh/HERD'
 url_dataset: ''
-# url_poster: 'poster.pdf'
+url_poster: 'poster.pdf'
 url_project: 'https://sites.google.com/view/hyperbolic-robot-design'
-# url_slides: 'slides.pdf'
+url_slides: 'slides.pdf'
 url_source: ''
 url_video: ''
 
