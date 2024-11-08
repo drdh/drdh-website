@@ -29,12 +29,13 @@ bio: My research interests include reinforcement learning, robot design, embodie
 
 # Interests to show in About widget
 interests:
+  - Reinforcement Learning
   - Robot Design
   - Large Language Models
-  - Embodied AI
-  - Reinforcement Learning
   - Multi-Agent
-  - Modular RL
+  - Diffusion Models
+  # - Embodied AI
+  # - Modular RL
 
 
 # Education to show in About widget
@@ -121,7 +122,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. Student advised by [Prof. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/) at Institute for Interdisciplinary Information Sciences (IIIS, Tsinghua University), headed by [Prof. Andrew Yao](https://iiis.tsinghua.edu.cn/yao/). My research interests include reinforcement learning, multi-agent and robot design.
+I am a Ph.D. Student advised by [Prof. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/) at Institute for Interdisciplinary Information Sciences (IIIS, Tsinghua University), headed by [Prof. Andrew Yao](https://iiis.tsinghua.edu.cn/yao/). The goal of my research is to endow robots with superhuman intelligence, which I believe can be achieved through *learning from interactions* using *modern models*.
 
 [//]: # (&#40;{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.&#41;)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Implementing Actor-Critic with Large Language Models'
+title: 'Enhancing Decision-Making of Large Language Models via Actor-Critic'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -29,13 +29,15 @@ publication_types: ['paper-conference']
 # Publication name and optional abbreviated publication name.
 # publication: In *The Twelfth International Conference on Learning Representations*
 # publication_short: In *ICLR*
-publication: Submit to *Thirty-eighth Annual Conference on Neural Information Processing Systems*
-publication_short: Submit to *NeurIPS*
+publication: Submit to *The Thirteenth International Conference on Learning Representations*
+publication_short: Submit to *ICLR*
 
-abstract: While large language models (LLMs) have shown impressive capability across numerous tasks, they often struggle with interactive decision-making tasks if they are used as actor-only methods, i.e., directly generating and selecting actions based on previous trajectories. This struggle is because LLMs generate textual action auto-regressively and do not conduct explicit long-term planning, which is often necessary for decision-making tasks. Hence recent work turns to critic-only methods, which use other repurposed LLMs as critics to evaluate each action candidate through planning and simulating and select the action with the best-estimated evaluation. However, both actor-only and critic-only methods ignore the interrelation between actor and critic, prioritize one over the other, and insufficiently exploit the valuable knowledge from the actor and critic for decision-making. To address this problem, we propose to integrate prior actor-only and critic-only methods in the way that would utilize the merits of the actor-critic algorithm with the strengths of LLMs. Specifically, we design two novel critics to exploit the strong prior knowledge in LLMs and integrate them with the actor via in-context learning and solving an optimization problem, respectively, during different decision-making phases. Empirically, we apply our approach to a diverse set of decision-making tasks that cover both high-level action space (ALFWorld) and low-level action space (BabyAI-text). Our method outperforms other state-of-the-art baselines using the same 7B/8B open-source LLMs and even exceeds ReAct using GPT-4 in most settings.
+abstract: Large Language Models (LLMs) have achieved significant advancements in natural language processing tasks, yet they encounter challenges in complex decision-making scenarios that require long-term reasoning and alignment with high-level objectives. This paper introduces a novel gradient-free LLM-based Actor-Critic framework, termed LAC, which addresses these limitations by integrating both action generation and action evaluation mechanisms. Our approach employs two distinct critics, a language-based critic that provides context-sensitive feedback and a value-based critic that offers quantitative assessments of expected long-term rewards. This dual-critic architecture enhances decision-making by leveraging the complementary strengths of both critics, enabling contextually appropriate and more robust action selection. Additionally, we propose a gradient-free policy improvement method that reduces computational overhead, facilitating efficient updates to the actor’s policy without the complexities of gradient backpropagation. We validate the effectiveness of LAC across diverse environments that cover both high-level action space (ALFWorld) and low-level action space (BabyAI-Text), demonstrating its superior performance compared to existing state-of-the-art methods. Our method outperforms other state-of-the-art baselines using the same 7B/8B open-source LLMs and even exceeds a strong baseline ReAct using GPT-4 in most settings. Our findings highlight the efficacy and generality of the dual-critic Actor-Critic framework in enhancing LLM-based decision-making.
+
+
 
 # Summary. An optional shortened abstract.
-summary:  We propose an LLM-based Actor-Critic algorithm that integrates prior actor-only and critic-only methods in the way that would utilize the merits of the actor-critic algorithm with the strengths of LLMs.
+summary:  We propose an LLM-based Actor-Critic algorithm that integrates actor and critic methods in the way that would utilize the merits of the actor-critic algorithm with the strengths of LLMs.
 
 tags: []
 
