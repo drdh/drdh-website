@@ -49,11 +49,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf:  https://openreview.net/pdf?id=q9jQPA6zPK'
+# url_pdf:  'https://openreview.net/pdf?id=q9jQPA6zPK'
+url_pdf: 'uploads/paper_tmp.pdf'
 # url_code: 'https://github.com/drdh/HERD'
 url_dataset: ''
 # url_poster: 'poster.pdf'
-# url_project: 'https://sites.google.com/view/hyperbolic-robot-design'
+url_project: 'https://sites.google.com/view/lang-ac'
 # url_slides: 'slides.pdf'
 url_source: ''
 url_video: ''

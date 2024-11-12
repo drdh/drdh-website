@@ -25,15 +25,19 @@ organizations:
     url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforcement learning, robot design, embodied AI and multi-agent.
+# bio: My research interests include reinforcement learning, large language models, diffusion models, multi-agent, robot design.
+bio: My research interests include *learning from interactions* and *modern models* 
 
 # Interests to show in About widget
 interests:
-  - Reinforcement Learning
-  - Robot Design
-  - Large Language Models
-  - Multi-Agent
-  - Diffusion Models
+  - Learning from Interactions (Reinforcement Learning, Robot Design, Multi-Agent)
+  - Modern Models (Large Language Models, Diffusion Models)
+  
+  # - Reinforcement Learning
+  # - Large Language Models  
+  # - Multi-Agent
+  # - Diffusion Models
+  # - Robot Design
   # - Embodied AI
   # - Modular RL
 
