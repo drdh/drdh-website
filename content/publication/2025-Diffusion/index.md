@@ -31,8 +31,8 @@ publication_types: ['paper-conference']
 # Publication name and optional abbreviated publication name.
 # publication: In *The Twelfth International Conference on Learning Representations*
 # publication_short: In *ICLR*
-publication: Submit to *The 24th International Conference on Autonomous Agents and Multiagent Systems*
-publication_short: Submit to *AAMAS*
+publication: In *The 24th International Conference on Autonomous Agents and Multiagent Systems*
+publication_short: In *AAMAS 2025*
 
 abstract: Multiagent systems grapple with partial observability (PO), and the decentralized POMDP (Dec-POMDP) model highlights the fundamental nature of this challenge. Whereas recent approaches to address PO have appealed to deep learning models, providing a rigorous understanding of how these models and their approximation errors affect agents' handling of PO and their interactions remain a challenge. In addressing this challenge, we investigate reconstructing global states from local action-observation histories in Dec-POMDPs using diffusion models. We first find that diffusion models conditioned on local history represent possible states as stable fixed points. In collectively observable (CO) Dec-POMDPs, individual diffusion models conditioned on agents' local histories share a unique fixed point corresponding to the global state, while in non-CO settings, the shared fixed points yield a distribution of possible states given joint history. We further find that, with deep learning approximation errors, fixed points can deviate from true states and the deviation is negatively correlated to the Jacobian rank. Inspired by this low-rank property, we bound the deviation by constructing a surrogate linear regression model that approximates the local behavior of diffusion models. With this bound, we propose a composite diffusion process iterating over agents with theoretical convergence guarantees to the true state.
 

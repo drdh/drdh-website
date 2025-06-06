@@ -30,8 +30,8 @@ bio: My research interests include *learning from interactions* and *modern mode
 
 # Interests to show in About widget
 interests:
-  - Learning from Interactions (Reinforcement Learning, Robot Design, Multi-Agent)
-  - Modern Models (Large Language Models, Diffusion Models)
+  - Learning from Interactions (RL, Robot Control & Design, Multi-Agent)
+  - Modern Models (LLMs & VLMs, Diffusion Models, Flow Models)
   
   # - Reinforcement Learning
   # - Large Language Models  
@@ -108,8 +108,8 @@ social:
     link: https://github.com/drdh
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/drdhxi
-    label: Follow me on Twitter
+    link: https://x.com/drdhxi
+    label: Follow me on X (Twitter)
     display:
       header: true
 #  - icon: linkedin
@@ -126,7 +126,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. Student advised by [Prof. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/) at Institute for Interdisciplinary Information Sciences (IIIS, Tsinghua University), headed by [Prof. Andrew Yao](https://iiis.tsinghua.edu.cn/yao/). The goal of my research is to endow robots with superhuman intelligence, which I believe can be achieved through *learning from interactions* using *modern models*.
+I am a Ph.D. Student advised by [Prof. Chongjie Zhang](https://engineering.washu.edu/faculty/Chongjie-Zhang.html) and [Prof. Yi Wu](https://jxwuyi.weebly.com/) at Institute for Interdisciplinary Information Sciences (IIIS, Tsinghua University), headed by [Prof. Andrew Yao](https://iiis.tsinghua.edu.cn/yao/). The goal of my research is to endow agents with superhuman intelligence, which I believe can be achieved through *learning from interactions* using *modern models*.
 
 [//]: # (&#40;{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.&#41;)
 
